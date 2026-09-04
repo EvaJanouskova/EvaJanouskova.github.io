@@ -1,5 +1,6 @@
-[Home](https://EvaJanouskova.github.io) | [Publications](publications) | <u>CV</u>
 
+---
+[Home](https://EvaJanouskova.github.io) | [Publications](publications) | <u>CV</u>
 ---
 
 # Eva Janoušková

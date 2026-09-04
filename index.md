@@ -1,3 +1,4 @@
+---
 <u>Home</u> | [Publications](publications) | [CV](cv)
 
 <!-- TODO: add | [Projects](projects) | before or after Publications? Add them in all files pub, cv, ... -->
