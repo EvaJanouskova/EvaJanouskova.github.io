@@ -114,4 +114,4 @@ London, UK | [janouskova.eva.012@gmail.com](mailto:janouskova.eva.012@gmail.com)
 
 ## Publications
 
-For a full list of publications and preprints, see the [Publications page](publications) or download my [full CV (PDF)](assets/CV_Eva_Janouskova.pdf).
+For a full list of publications and preprints, see the [Publications page](publications) or download my [full CV (PDF)](assets/JanouskovaE_cv.pdf).
