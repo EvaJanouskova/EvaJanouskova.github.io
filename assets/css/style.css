@@ -1,0 +1,11 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Custom style for header description */
+.project-tagline {
+  color: #222222 !important; /* Dark charcoal color */
+  font-size: 1.25rem !important; /* Larger text size */
+  font-weight: 500 !important; /* Slightly bolder for readability */
+}
