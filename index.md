@@ -1,6 +1,6 @@
-[Home](https://EvaJanouskova.github.io) | [Publications](publications) | [CV](cv)
+<u>Home</u> | [Publications](publications) | [CV](cv)
 
-<!-- TODO: add | [Projects](projects) | before or after Publications? -->
+<!-- TODO: add | [Projects](projects) | before or after Publications? Add them in all files pub, cv, ... -->
 ---
 
 ## About me

@@ -1,3 +1,7 @@
+[Home](https://EvaJanouskova.github.io) | <u>Publications</u> | [CV](cv)
+
+---
+
 ## Publications by Research Topic
 
 ### Health Systems Modelling & Health Policy Evaluation
@@ -23,7 +27,7 @@
 ### Infectious Disease Dynamics, NTDs & One Health
 * **Mangal et al. (2026)** — [Linking transmission dynamics and economic evaluation to assess schistosomiasis programme strategies across districts in Malawi](https://doi.org/10.64898/2026.05.06.26352519) (*medRxiv / submitted PLOS NTDs*)
 * **Mangal et al. (2025)** — [Modelling health outcomes of a decade of HIV, malaria and tuberculosis initiatives, Malawi](https://doi.org/10.2471/BLT.24.292439) (*Bull. World Health Organ.*)
-* **Mangal et al. (2025)** — [System-wide investments enhance HIV, TB and malaria control in Malawi and deliver greater health impact](https://doi.org/10.1101/2025.04.29.25326667) (*medRxiv*)
+* **Mangal et al. (2025)** — [System-wide investments enhance HIV, TB and malaria control in Malawi and deliver greater health impact](https://doi.org/10.1101/2025.04.2**9.25326667) (*medRxiv*)
 * **Mangal et al. (2024)** — [Assessing the effect of health system resources on HIV and tuberculosis programmes in Malawi: a modelling study](https://doi.org/10.1016/S2214-109X(24)00259-6) (*The Lancet Glob. Health*)
 * **Janoušková et al. (2023)** — [Quantifying spillover risk with an integrated bat-rabies dynamic modeling framework](https://doi.org/10.1155/2023/2611577) (*Transbound. Emerg. Dis.*)
 * **Janoušková et al. (2022)** — [Public health policy pillars for the sustainable elimination of zoonotic schistosomiasis](https://doi.org/10.3389/fitd.2022.826501) (*Front. Trop. Dis.*)

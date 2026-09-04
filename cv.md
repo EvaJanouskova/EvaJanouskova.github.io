@@ -1,3 +1,7 @@
+[Home](https://EvaJanouskova.github.io) | [Publications](publications) | <u>CV</u>
+
+---
+
 # Eva Janoušková
 
 **Health system modeller** with 6 years of experience bridging mathematical modelling, health economics, and data science to drive evidence-based policy. Passionate about real-world impact and equitable public health, recognising patient, system, and resource barriers. 
