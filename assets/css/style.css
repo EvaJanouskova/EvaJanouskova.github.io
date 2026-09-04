@@ -3,9 +3,16 @@
 
 @import "{{ site.theme }}";
 
-/* Custom style for header description */
-.project-tagline {
-  color: #222222 !important; /* Dark charcoal color */
-  font-size: 1.25rem !important; /* Larger text size */
-  font-weight: 500 !important; /* Slightly bolder for readability */
+/* Force header description/tagline to be black, bold, and larger */
+header .project-tagline,
+.project-tagline,
+.site-header p,
+header p,
+.page-header h2,
+.page-header p {
+  color: #000000 !important; /* Pure black */
+  font-size: 1.8rem !important; /* Prominent, larger text size */
+  font-weight: 700 !important; /* Fully bold */
+  opacity: 1 !important;
+  filter: none !important;
 }
