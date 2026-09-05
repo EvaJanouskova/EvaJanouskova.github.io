@@ -10,9 +10,6 @@ London, UK | [janouskova.eva.012@gmail.com](mailto:janouskova.eva.012@gmail.com)
 
 [LinkedIn](https://www.linkedin.com/in/EvaJMathModel) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=kA0PlWYAAAAJ) | [GitHub](https://github.com/EvaJanouskova) | [ResearchGate](https://www.researchgate.net/profile/Eva-Janouskova) | [ORCID](https://orcid.org/0000-0002-4104-0119) | [ResearcherID](https://publons.com/researcher/4054043/eva-janouskova/)
 
----
----
-
 ## Work Experience
 
 ### **Research Fellow in Health System Modelling**
