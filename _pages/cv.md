@@ -29,7 +29,7 @@ London, UK | [janouskova.eva.012@gmail.com](mailto:janouskova.eva.012@gmail.com)
 
 
 ### **Research Fellow in Mathematical Modelling**
-**University of Surrey, School of Veterinary Medicine** | Guildford, United Kingdom  
+**University of Surrey (UoS), School of Veterinary Medicine** | Guildford, United Kingdom  
 *12/2019 – 06/2022*
 
 * Developed a stochastic geospatial network model in R to simulate zoonotic rabies spillover in Brazil: cleaned, validated, and integrated ecological niche datasets, mapped spatial risk, evaluated vaccination strategies, and visualised outcomes for the Brazilian MoH.
@@ -41,7 +41,7 @@ London, UK | [janouskova.eva.012@gmail.com](mailto:janouskova.eva.012@gmail.com)
 
 
 ### **External Lecturer**
-**Masaryk University, Centre for Students with Special Needs (Teiresiás)** | Brno, Czech Republic  
+**Masaryk University (MU), Centre for Students with Special Needs (Teiresiás)** | Brno, Czech Republic  
 *09/2010 – 05/2019*
 
 * Adapted and delivered Bachelor/Master lectures and seminars across multiple faculties.
@@ -101,13 +101,13 @@ London, UK | [janouskova.eva.012@gmail.com](mailto:janouskova.eva.012@gmail.com)
 
 ## Courses & Professional Development
 
-* **06/2025:** Introduction to Qualitative Analysis: Interviewing | UCL (UK)
-* **04/2025:** Supervising Masters Projects and Dissertations | UCL (UK)
-* **02/2025:** Resilient Leadership in Action | King's College London (UK)
-* **06/2024:** Applying for an Early Career Research Fellowship | UCL (UK)
-* **03/2020:** Advanced Bayesian Disease Mapping Course | Medical University of South Carolina (USA)
-* **07/2014:** 6th Summer Institute in Statistics and Modeling in Infectious Diseases (SISMID) | University of Washington (USA) *Modules:* Mathematical Models of Infectious Disease; Infectious Diseases Immunology and Within-Host Models; Stochastic Epidemic Models with Inference. (***Awarded full scholarship.***)
-* **09/2013:** 9th Summer School of Mathematical Biology: Stochastic Modelling in Epidemiology | Czech Republic
+* **06/2025:** Introduction to Qualitative Analysis: Interviewing; UCL (UK)
+* **04/2025:** Supervising Masters Projects and Dissertations; UCL (UK)
+* **02/2025:** Resilient Leadership in Action; King's College London (UK)
+* **06/2024:** Applying for an Early Career Research Fellowship, UCL (UK)
+* **03/2020:** Advanced Bayesian Disease Mapping Course; Medical University of South Carolina (USA)
+* **07/2014:** 6th Summer Institute in Statistics and Modeling in Infectious Diseases (SISMID); University of Washington (USA) / 3 modules: Mathematical Models of Infectious Disease, Infectious Diseases Immunology and Within-Host Models, Stochastic Epidemic Models with Inference. (***Awarded full scholarship.***)
+* **09/2013:** 9th Summer School of Mathematical Biology: Stochastic Modelling in Epidemiology; MU (CZ)
 
 ----
 
