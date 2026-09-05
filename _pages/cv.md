@@ -106,8 +106,7 @@ London, UK | [janouskova.eva.012@gmail.com](mailto:janouskova.eva.012@gmail.com)
 * **02/2025:** Resilient Leadership in Action | King's College London (UK)
 * **06/2024:** Applying for an Early Career Research Fellowship | UCL (UK)
 * **03/2020:** Advanced Bayesian Disease Mapping Course | Medical University of South Carolina (USA)
-* **07/2014:** 6th Summer Institute in Statistics and Modeling in Infectious Diseases (SISMID) | University of Washington (USA)  
-  *Modules:* Mathematical Models of Infectious Disease; Infectious Diseases Immunology and Within-Host Models; Stochastic Epidemic Models with Inference. (***Awarded full scholarship.***)
+* **07/2014:** 6th Summer Institute in Statistics and Modeling in Infectious Diseases (SISMID) | University of Washington (USA) *Modules:* Mathematical Models of Infectious Disease; Infectious Diseases Immunology and Within-Host Models; Stochastic Epidemic Models with Inference. (***Awarded full scholarship.***)
 * **09/2013:** 9th Summer School of Mathematical Biology: Stochastic Modelling in Epidemiology | Czech Republic
 
 ----
