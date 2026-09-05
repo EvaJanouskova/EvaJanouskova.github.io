@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: "CV"
+title: "Eva Janoušková"
 permalink: /cv/
 author_profile: true
 ---
-
-# Eva Janoušková
 
 **Health system modeller** with 6 years of experience bridging mathematical modelling, health economics, and data science to drive evidence-based policy. Passionate about real-world impact and equitable public health, recognising patient, system, and resource barriers. 
 

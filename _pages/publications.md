@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications by Research Topic"
 permalink: /publications/
 author_profile: true
 ---
-
-## Publications by Research Topic
 
 ### Health Systems Modelling & Health Policy Evaluation
 * **Perinpakumar et al. (2026)** — [An estimation of the health-cost of unfilled medical positions in Malawi: A Thanzi La Onse Mathematical Modelling study](https://doi.org/10.64898/2026.05.25.26353761) (*medRxiv*)

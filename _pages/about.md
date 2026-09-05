@@ -1,11 +1,10 @@
 ---
 layout: single
-title: "About"
+title: "About Me"
 permalink: /
 author_profile: true
 ---
 
-## About me
 I am a health system modeller and epidemiologist with 6 years of experience bridging mathematical modelling, health economics, and data science to drive evidence-based policy. Passionate about real-world impact and equitable public health, recognising patient, system, and resource barriers. I enjoy programming alongside data analysis and visualisation. I strongly value cross-disciplinary collaboration and connecting with staff across governmental and intergovernmental institutions to reach actionable impact.
 
 ## Research interests
