@@ -18,7 +18,7 @@ author_profile: true
 
 ### Maternal, Child & Reproductive Health Interventions
 * **Janoušková et al. (2026)** — [Cost-effectiveness of addressing constraints in childhood acute malnutrition management in Malawi using the Thanzi La Onse health system simulation framework](https://doi.org/10.64898/2026.03.05.26347696) (*medRxiv / submitted PLOS Med.*)
-* **Li Lin, Janoušková, et al. (2025)** — [The impact and cost-effectiveness of pulse oximetry and oxygen on acute lower respiratory infection outcomes in children in Malawi: a modelling study](https://doi.org/10.1016/S2214-109X(25)00202-5) (*The Lancet Glob. Health*)
+* **Li Lin et al. (2025)** — [The impact and cost-effectiveness of pulse oximetry and oxygen on acute lower respiratory infection outcomes in children in Malawi: a modelling study](https://doi.org/10.1016/S2214-109X(25)00202-5) (*The Lancet Glob. Health*)
 * **Collins et al. (2025)** — [An individual-based modelling study estimating the impact of maternity service delivery on health in Malawi](https://doi.org/10.1038/s41467-025-59060-2) (*Nat. Commun.*)
 * **Colbourn, Janoušková, et al. (2023)** — [Modeling contraception and pregnancy in Malawi: a Thanzi La Onse mathematical modeling study](https://doi.org/10.1111/sifp.12255) (*Stud. Fam. Plan.*)
 
