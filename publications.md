@@ -1,6 +1,6 @@
 
----
 [Home](https://EvaJanouskova.github.io) | <u>Publications</u> | [CV](cv)
+
 ---
 
 ## Publications by Research Topic
