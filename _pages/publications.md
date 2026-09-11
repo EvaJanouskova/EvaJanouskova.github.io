@@ -21,7 +21,7 @@ author_profile: true
 * **Colbourn, Janoušková, et al. (2023)** — [Modeling contraception and pregnancy in Malawi: a Thanzi La Onse mathematical modeling study](https://doi.org/10.1111/sifp.12255) (*Stud. Fam. Plan.*)
 
 ### Healthcare Service Access & Quality Evaluation
-* **Bhatia et al. (2026)** — Better data for better public health decision-making: quantifying the intended and unintended impacts of public service modifications (*Accepted for publication*)
+* **Bhatia et al. (2026)** — Better data for better public health decision-making: quantifying the intended and unintended impacts of public service modifications (*Accepted: BMC Glob. Public Health.*)
 * **Collins et al. (2025)** — [Healthcare service user-reported quality of care in Malawi: a national multi-facility cross-sectional study](https://doi.org/10.1101/2025.09.10.25335306) (*medRxiv*)
 * **She et al. (2024)** — [The changes in health service utilisation in Malawi during the COVID-19 pandemic](https://doi.org/10.1371/journal.pone.0290823) (*PLOS ONE*)
 
